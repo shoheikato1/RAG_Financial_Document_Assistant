@@ -1,0 +1,7 @@
+ipywidgets
+PyPDF2
+faiss-cpu
+sentence-transformers
+nltk
+openai
+tqdm
