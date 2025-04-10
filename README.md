@@ -1,4 +1,4 @@
-# Financial Analyst RAG Assistant
+# RAG Financial Document (10K report) Assistant
 
 This project demonstrates a prototype Retrieval-Augmented Generation (RAG) system designed to assist financial analysts in extracting competitive insights from 10-K reports across multiple insurance carriers.
 
