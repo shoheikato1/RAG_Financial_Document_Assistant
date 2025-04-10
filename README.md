@@ -1,1 +1,1 @@
-# 10K_report_RAG_system
+# Financial Analyst RAG Assistant
