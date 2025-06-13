@@ -23,7 +23,7 @@ This system is tailored for financial analysts in the insurance industry who:
 
 ## Project Structure
 
-├── code/ │ └── RAG_Financial_Analyzer.ipynb ├── documentation/ │ ├── Product_Requirements_Doc.pdf │ ├── Architecture_Diagram.pdf │ └── Screenshots.pdf
+├code│RAG_Financial_Analyzer.ipynb ├documentation│ ├Product_Requirements_Doc.pdf │ Architecture_Diagram.pdf │ Screenshots.pdf
 
 ## Tech Stack
 
